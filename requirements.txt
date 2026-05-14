@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+qiskit
+qiskit-machine-learning
+matplotlib
+shap
+flask
